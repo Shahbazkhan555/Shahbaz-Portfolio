@@ -4,14 +4,6 @@
 
 Welcome to my portfolio website! This repository contains the code for my personal portfolio showcasing my skills, projects, and achievements as a Data Science and MLOps Engineer.
 
-## Table of Contents
-
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Contact](#contact)
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## About Me
 
